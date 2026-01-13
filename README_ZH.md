@@ -59,17 +59,13 @@ MemCull 是一款简洁优雅的照片整理应用，旨在帮助您快速清理
 
 ## 📸 界面预览
 
-| 引导页 | 主页 | 位置配置 |
+| 图片信息 | 主页 | 关于 |
 | :---: | :---: | :---: |
 | <img src="screenshots/2.jpg" width="250"> | <img src="screenshots/1.jpg" width="250"> | <img src="screenshots/3.jpg" width="250"> |
 
-| 保留 (向下滑动) | 删除 (向上滑动) | 回收站 |
+| 设置 | 多语言 | 回收站 |
 | :---: | :---: | :---: |
-| <img src="screenshots/4.jpg" width="250"> | <img src="screenshots/5.jpg" width="250"> | <img src="screenshots/trash.jpg" width="250"> |
-
-| 设置 |
-| :---: |
-| <img src="screenshots/6.jpg" width="250"> |
+| <img src="screenshots/4.jpg" width="250"> | <img src="screenshots/5.jpg" width="250"> | <img src="screenshots/6.jpg" width="250"> |
 
 ## 📄 开源协议
 
