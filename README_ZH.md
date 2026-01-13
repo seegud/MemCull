@@ -2,8 +2,9 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-memcull.seegood.top-brightgreen)](https://memcull.seegood.top)
 
-[English Version](./README.md)
+[English Version](./README.md) | [官方网站](https://memcull.seegood.top)
 
 MemCull 是一款简洁优雅的照片整理应用，旨在帮助您快速清理手机相册。它采用类似 Tinder 的滑动界面，让筛选成百上千张照片变得轻而易举。
 
@@ -58,7 +59,17 @@ MemCull 是一款简洁优雅的照片整理应用，旨在帮助您快速清理
 
 ## 📸 界面预览
 
-*(稍后添加截图)*
+| 引导页 | 主页 | 位置配置 |
+| :---: | :---: | :---: |
+| <img src="screenshots/2.jpg" width="250"> | <img src="screenshots/1.jpg" width="250"> | <img src="screenshots/3.jpg" width="250"> |
+
+| 保留 (向下滑动) | 删除 (向上滑动) | 回收站 |
+| :---: | :---: | :---: |
+| <img src="screenshots/4.jpg" width="250"> | <img src="screenshots/5.jpg" width="250"> | <img src="screenshots/trash.jpg" width="250"> |
+
+| 设置 |
+| :---: |
+| <img src="screenshots/6.jpg" width="250"> |
 
 ## 📄 开源协议
 

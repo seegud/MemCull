@@ -2,8 +2,9 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-memcull.seegood.top-brightgreen)](https://memcull.seegood.top)
 
-[中文文档](./README_ZH.md)
+[中文文档](./README_ZH.md) | [Official Website](https://memcull.seegood.top)
 
 MemCull is a simple and elegant image organization app designed to help you quickly clean up your photo gallery. It uses a Tinder-like swiping interface to make sorting through hundreds of photos a breeze.
 
@@ -58,7 +59,17 @@ MemCull is a simple and elegant image organization app designed to help you quic
 
 ## 📸 Screenshots
 
-*(Add screenshots here later)*
+| Onboarding | Home | Location Config |
+| :---: | :---: | :---: |
+| <img src="screenshots/2.jpg" width="250"> | <img src="screenshots/1.jpg" width="250"> | <img src="screenshots/3.jpg" width="250"> |
+
+| Keep (Swipe Down) | Delete (Swipe Up) | Recycle Bin |
+| :---: | :---: | :---: |
+| <img src="screenshots/4.jpg" width="250"> | <img src="screenshots/5.jpg" width="250"> | <img src="screenshots/trash.jpg" width="250"> |
+
+| Settings |
+| :---: |
+| <img src="screenshots/6.jpg" width="250"> |
 
 ## 📄 License
 
