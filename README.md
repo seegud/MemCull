@@ -7,7 +7,7 @@
 [中文文档](./README_ZH.md) | [Official Website](https://memcull.seegood.top)
 
 MemCull is a simple and elegant image organization app designed to help you quickly clean up your photo gallery. It uses a Tinder-like swiping interface to make sorting through hundreds of photos a breeze.
-Is there any friend willing to sponsor me $25 to register a Google Developer account and then upload this app to the Play Store? Thank you very much! Regardless, this software is provided for free and the regular usage pages will be ad-free.
+Regardless, this software is provided for free and the regular usage pages will be ad-free.
 
 ## ✨ Features
 
